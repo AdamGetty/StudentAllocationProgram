@@ -1,0 +1,1 @@
+This Program serves as a base for the allocation algorithms in the Matching program. It works by requesting data from a user, which is then added to an Excel document that can be read in through the Matching program.
